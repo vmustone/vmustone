@@ -4,7 +4,7 @@ I’m in the final stages of my studies at Hive Helsinki, where I’ve honed my 
 
 I’m currently exploring opportunities in full-stack and front-end development, with a focus on mastering React, TypeScript, and Node.js. My background also includes hands-on experience with telecommunication systems and electrical installations, giving me a unique edge in tech and fieldwork alike.
 
-- 🚀 Skills: C, C++, JavaScript, HTML, CSS, SQL
+- 🚀 Skills: C, C++, JavaScript, HTML, CSS
 - 🌱 Currently learning: Advanced React & TypeScript
 - 💼 Looking for: Junior front-end or full-stack roles
 
