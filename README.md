@@ -1,4 +1,4 @@
-👋 Hello! I’m Ville Mustonen, a software developer focused on creative coding solutions.
+👋 Hello! I’m Ville Mustonen.
 
 I’m in the final stages of my studies at Hive Helsinki, where I’ve honed my skills in C and C++. I'm passionate about front-end development and have a keen eye for UI/UX design, often leveraging JavaScript, HTML, and CSS for building engaging user interfaces. My recent projects include everything from improving game mechanics in C++ to building mobile-compatible web applications.
 
