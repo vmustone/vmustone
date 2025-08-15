@@ -1,6 +1,6 @@
 👋 Hello! I’m Ville
 
-I’m in the final stages of my studies at Hive Helsinki, where I’ve honed my skills in C and C++. I'm passionate about front-end development and have a keen eye for UI/UX design.
+I’m in the final stages of my studies at Hive Helsinki, where I’ve honed my skills in C and C++. I'm passionate about fullstack development.
 
 I’m currently exploring opportunities in full-stack and front-end development.
 
